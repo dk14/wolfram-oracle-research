@@ -1,3 +1,9 @@
 [submodule "wolfram-mega"]
 	path = wolfram-mega
 	url = https://github.com/dk14/wolfram-mega
+[submodule "marlowe-wolfram-webdoc"]
+	path = marlowe-wolfram-webdoc
+	url = https://github.com/dk14/marlowe-wolfram-webdoc
+[submodule "marlowe-wolfram-starter-kit"]
+	path = marlowe-wolfram-starter-kit
+	url = https://github.com/dk14/marlowe-wolfram-starter-kit
