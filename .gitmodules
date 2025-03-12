@@ -1,0 +1,3 @@
+[submodule "wolfram-mega"]
+	path = wolfram-mega
+	url = https://github.com/dk14/wolfram-mega
